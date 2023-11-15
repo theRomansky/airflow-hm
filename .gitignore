@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+modules/__pycache__
+dags/.DS_Store
+data/.DS_Store
+data/train
+data/test
+data/models/
